@@ -2,9 +2,7 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/qeCBBxZoqAM" target="_blank">
-    <img src="./banner.png" alt="Project Banner">
-  </a>
+    <img src="./public/assets/banner.png" alt="Project Banner">
   <br />
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />

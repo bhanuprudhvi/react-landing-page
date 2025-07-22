@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
     <img src="https://img.shields.io/badge/-Zustand-000?style=for-the-badge" alt="Zustand" />
   </div>
-  <h3 align="center">React Landing Page</h3>
+  <h3 align="center">a Beautiful, Modern React Landing Page</h3>
   <br />
 </div>
 

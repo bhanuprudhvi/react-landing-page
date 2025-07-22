@@ -75,7 +75,7 @@ This project aims to simplify the process of building sleek, scalable landing pa
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/yourusername/react-landing-page.git
+git clone https://github.com/bhanuprudhvi/react-landing-page.git
 cd react-landing-page
 ```
 

@@ -27,6 +27,18 @@
 
 react-landing-page is a modern React starter template designed to accelerate the development of responsive, high-performance landing pages. It integrates Tailwind CSS and Vite for a streamlined, efficient workflow, enabling rapid iteration and consistent styling. The project features a well-organized architecture with reusable components, built-in ESLint configuration for maintaining code quality, and a flexible layout system that adapts seamlessly across devices.
 
+## Why react-landing-page?
+
+This project aims to simplify the process of building sleek, scalable landing pages with React. The core features include:
+
+<ul class="list-disc pl-4 my-0">
+<li class="my-0">🛠️ <strong>Fast Development:</strong> Leverage Vite's hot module replacement for rapid iteration.</li>
+<li class="my-0">🎨 <strong>Reusable Components:</strong> Modular UI elements for consistent styling and easy customization.</li>
+<li class="my-0">🔍 <strong>Code Quality:</strong> Built-in ESLint setup to enforce best practices.</li>
+<li class="my-0">📱 <strong>Responsive Design:</strong> Mobile-first layout with Tailwind CSS.</li>
+<li class="my-0">🚀 <strong>Scalable Architecture:</strong> Clear separation of concerns for maintainability.</li>
+</ul>
+
 ## ⚙️ Tech Stack
 
 - **React** – For building the user interface
